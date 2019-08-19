@@ -15,7 +15,7 @@
 		String[] hobbies=request.getParameterValues("uhobbies");
 	%>
 	
-	注册成功，信息如下:<br>
+	注册成功，,,信息如下:<br>
 	姓名：<%=name %><br>
 	年龄：<%=age %><br>
 	密码：<%=pwd %><br>
